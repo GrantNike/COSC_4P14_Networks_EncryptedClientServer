@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: manuscript.aux
+The style file: ACM-Reference-Format-Journals.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: acmsmall-sample-bibfile.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 1 entry,
+            5290 wiz_defined-function locations,
+            1231 strings with 14372 characters,
+and the built_in function-call counts, 1197 in all, are:
+= -- 185
+> -- 41
+< -- 0
++ -- 12
+- -- 12
+* -- 74
+:= -- 117
+add.period$ -- 5
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 81
+empty$ -- 59
+format.name$ -- 16
+if$ -- 301
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 45
+num.names$ -- 8
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 26
+stack$ -- 0
+substring$ -- 81
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 0
+while$ -- 6
+width$ -- 0
+write$ -- 53

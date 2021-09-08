@@ -1,0 +1,1383 @@
+@article{wang2015survey,
+  title={A survey of mobile cloud computing applications: perspectives and challenges},
+  author={Wang, Yating and Chen, Ray and Wang, Ding-Chau},
+  journal={Wireless Personal Communications},
+  volume={80},
+  number={4},
+  pages={1607--1623},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{othman2014survey,
+  title={A survey of mobile cloud computing application models},
+  author={Othman, Mazliza and Madani, Sajjad Ahmad and Khan, Samee Ullah and others},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={16},
+  number={1},
+  pages={393--413},
+  year={2014},
+  publisher={ieee}
+}
+
+@article{rahimi2014mobile,
+  title={Mobile cloud computing: A survey, state of art and future directions},
+  author={Rahimi, M Reza and Ren, Jian and Liu, Chi Harold and Vasilakos, Athanasios V and Venkatasubramanian, Nalini},
+  journal={Mobile Networks and Applications},
+  volume={19},
+  number={2},
+  pages={133--143},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{zhang2016survey,
+  title={A survey on decision making for task migration in mobile cloud environments},
+  author={Zhang, Weishan and Tan, Shouchao and Xia, Feng and Chen, Xiufeng and Li, Zhongwei and Lu, Qinghua and Yang, Su},
+  journal={Personal and Ubiquitous Computing},
+  volume={20},
+  number={3},
+  pages={295--309},
+  year={2016},
+  publisher={Springer-Verlag}
+}
+
+@article{ahmed2015seamless,
+  title={Seamless application execution in mobile cloud computing: Motivation, taxonomy, and open challenges},
+  author={Ahmed, Ejaz and Gani, Abdullah and Khan, Muhammad Khurram and Buyya, Rajkumar and Khan, Samee U},
+  journal={Journal of Network and Computer Applications},
+  volume={52},
+  pages={154--172},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{pering1998simulation,
+  title={The simulation and evaluation of dynamic voltage scaling algorithms},
+  author={Pering, Trevor and Burd, Tom and Brodersen, Robert},
+  booktitle={Proceedings of the 1998 international symposium on Low power electronics and design},
+  pages={76--81},
+  year={1998},
+  organization={ACM}
+}
+
+@article{huang2011android,
+  title={Android x86-Porting Android to x86},
+  author={Huang, Chih-Wei and Chen, M and Zavin, D},
+  journal={Available on Dec},
+  year={2011}
+}
+
+@article{huang2012understanding,
+  title={Understanding the dalvik virtual machine},
+  author={Huang, Jim},
+  journal={Google Technology User Groups, Taipei},
+  year={2012}
+}
+
+@book{richter2006clr,
+  title={CLR via c\#},
+  author={Richter, Jeffrey},
+  volume={4},
+  year={2006},
+  publisher={Microsoft Press Redmond}
+}
+
+@inproceedings{li2012toward,
+  title={Toward software-defined cellular networks},
+  author={Li, Li Erran and Mao, Z Morley and Rexford, Jennifer},
+  booktitle={2012 European Workshop on Software Defined Networking},
+  pages={7--12},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{jain2013b4,
+  title={B4: Experience with a globally-deployed software defined WAN},
+  author={Jain, Sushant and Kumar, Alok and Mandal, Subhasree and Ong, Joon and Poutievski, Leon and Singh, Arjun and Venkata, Subbaiah and Wanderer, Jim and Zhou, Junlan and Zhu, Min and others},
+  journal={ACM SIGCOMM Computer Communication Review},
+  volume={43},
+  number={4},
+  pages={3--14},
+  year={2013},
+  publisher={ACM}
+}
+
+@inproceedings{yemini1996towards,
+  title={Towards programmable networks},
+  author={Yemini, Yechiam and Da Silva, Sushil},
+  booktitle={IFIP/IEEE International Workshop on Distributed Systems: Operations and Management},
+  pages={1--11},
+  year={1996},
+  organization={Citeseer}
+}
+
+
+@article{pallis2006insight,
+  title={Insight and perspectives for content delivery networks},
+  author={Pallis, George and Vakali, Athena},
+  journal={Communications of the ACM},
+  volume={49},
+  number={1},
+  pages={101--106},
+  year={2006},
+  publisher={ACM}
+}
+
+@article{saroiu2002analysis,
+  title={An analysis of internet content delivery systems},
+  author={Saroiu, Stefan and Gummadi, Krishna P and Dunn, Richard J and Gribble, Steven D and Levy, Henry M},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={36},
+  number={SI},
+  pages={315--327},
+  year={2002},
+  publisher={ACM}
+}
+
+@inproceedings{gonzalez2014data,
+  title={A data cache with multiple caching strategies tuned to different types of locality},
+  author={Gonz{\'a}lez, Antonio and Aliagas, Carlos and Valero, Mateo},
+  booktitle={ACM International Conference on Supercomputing 25th Anniversary Volume},
+  pages={217--226},
+  year={2014},
+  organization={ACM}
+}
+
+@inproceedings{jouppi1990improving,
+  title={Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers},
+  author={Jouppi, Norman P},
+  booktitle={Computer Architecture, 1990. Proceedings., 17th Annual International Symposium on},
+  pages={364--373},
+  year={1990},
+  organization={IEEE}
+}
+
+@inproceedings{nesbit2004data,
+  title={Data cache prefetching using a global history buffer},
+  author={Nesbit, Kyle J and Smith, James E},
+  booktitle={Software, IEE Proceedings-},
+  pages={96--96},
+  year={2004},
+  organization={IEEE}
+}
+
+@article{wang2013cloud,
+  title={Cloud-assisted adaptive video streaming and social-aware video prefetching for mobile users},
+  author={Wang, Xiaofei and Kwon, Ted and Choi, Yanghee and Wang, Haiyang and Liu, Jiangchuan},
+  journal={IEEE Wireless Communications},
+  volume={20},
+  number={3},
+  pages={72--79},
+  year={2013},
+  publisher={IEEE}
+}
+
+@misc{wein2007content,
+  title={Content delivery network (CDN) content server request handling mechanism with metadata framework support},
+  author={Wein, Joel M and Kloninger, John Josef and Nottingham, Mark C and Karger, David R and Lisiecki, Philip A},
+  year={2007},
+  month=jul # "~3",
+  publisher={Google Patents},
+  note={US Patent 7,240,100}
+}
+
+@article{heinzelman2002application,
+  title={An application-specific protocol architecture for wireless microsensor networks},
+  author={Heinzelman, Wendi B and Chandrakasan, Anantha P and Balakrishnan, Hari},
+  journal={IEEE Transactions on wireless communications},
+  volume={1},
+  number={4},
+  pages={660--670},
+  year={2002},
+  publisher={IEEE}
+}
+
+@inproceedings{heinzelman2000energy,
+  title={Energy-efficient communication protocol for wireless microsensor networks},
+  author={Heinzelman, Wendi Rabiner and Chandrakasan, Anantha and Balakrishnan, Hari},
+  booktitle={System sciences, 2000. Proceedings of the 33rd annual Hawaii international conference on},
+  pages={10--pp},
+  year={2000},
+  organization={IEEE}
+}
+
+@inproceedings{ye2001scalable,
+  title={A scalable solution to minimum cost forwarding in large sensor networks},
+  author={Ye, Fan and Chen, Alvin and Lu, Songwu and Zhang, Lixia},
+  booktitle={Computer Communications and Networks, 2001. Proceedings. Tenth International Conference on},
+  pages={304--309},
+  year={2001},
+  organization={IEEE}
+}
+
+@inproceedings{chang2000energy,
+  title={Energy conserving routing in wireless ad-hoc networks},
+  author={Chang, Jae-Hwan and Tassiulas, Leandros},
+  booktitle={INFOCOM 2000. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies. Proceedings. IEEE},
+  volume={1},
+  pages={22--31},
+  year={2000},
+  organization={IEEE}
+}
+
+@article{sohrabi2000protocols,
+  title={Protocols for self-organization of a wireless sensor network},
+  author={Sohrabi, Katayoun and Gao, Jay and Ailawadhi, Vishal and Pottie, Gregory J},
+  journal={IEEE personal communications},
+  volume={7},
+  number={5},
+  pages={16--27},
+  year={2000}
+}
+
+@article{chan2008high,
+  title={High-performance lithium battery anodes using silicon nanowires},
+  author={Chan, Candace K and Peng, Hailin and Liu, Gao and McIlwrath, Kevin and Zhang, Xiao Feng and Huggins, Robert A and Cui, Yi},
+  journal={Nature nanotechnology},
+  volume={3},
+  number={1},
+  pages={31--35},
+  year={2008},
+  publisher={Nature Publishing Group}
+}
+
+@article{kim2014all,
+  title={All-graphene-battery: bridging the gap between supercapacitors and lithium ion batteries},
+  author={Kim, Haegyeom and Park, Kyu-Young and Hong, Jihyun and Kang, Kisuk},
+  journal={Scientific reports},
+  volume={4},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@inproceedings{pillai2001real,
+  title={Real-time dynamic voltage scaling for low-power embedded operating systems},
+  author={Pillai, Padmanabhan and Shin, Kang G},
+  booktitle={ACM SIGOPS Operating Systems Review},
+  volume={35},
+  number={5},
+  pages={89--102},
+  year={2001},
+  organization={ACM}
+}
+
+@article{choi2005fine,
+  title={Fine-grained dynamic voltage and frequency scaling for precise energy and performance tradeoff based on the ratio of off-chip access to on-chip computation times},
+  author={Choi, Kihwan and Soma, Ramakrishna and Pedram, Massoud},
+  journal={IEEE transactions on computer-aided design of integrated circuits and systems},
+  volume={24},
+  number={1},
+  pages={18--28},
+  year={2005},
+  publisher={IEEE}
+}
+
+@article{zissis2012addressing,
+  title={Addressing cloud computing security issues},
+  author={Zissis, Dimitrios and Lekkas, Dimitrios},
+  journal={Future Generation computer systems},
+  volume={28},
+  number={3},
+  pages={583--592},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{subashini2011survey,
+  title={A survey on security issues in service delivery models of cloud computing},
+  author={Subashini, Subashini and Kavitha, Veeraruna},
+  journal={Journal of network and computer applications},
+  volume={34},
+  number={1},
+  pages={1--11},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{brown1997operating,
+  title={Operating system benchmarking in the wake of lmbench: A case study of the performance of NetBSD on the Intel x86 architecture},
+  author={Brown, Aaron B and Seltzer, Margo I},
+  journal={ACM SIGMETRICS Performance Evaluation Review},
+  volume={25},
+  number={1},
+  pages={214--224},
+  year={1997},
+  publisher={ACM}
+}
+
+@book{furber1996arm,
+  title={ARM system Architecture},
+  author={Furber, Steve B},
+  year={1996},
+  publisher={Addison-Wesley Longman Publishing Co., Inc.}
+}
+
+@inproceedings{wood2007black,
+  title={Black-box and Gray-box Strategies for Virtual Machine Migration.},
+  author={Wood, Timothy and Shenoy, Prashant J and Venkataramani, Arun and Yousif, Mazin S},
+  booktitle={NSDI},
+  volume={7},
+  pages={17--17},
+  year={2007}
+}
+
+@article{jang2012study,
+  title={The study of genetic algorithm-based task scheduling for cloud computing},
+  author={Jang, Sung Ho and Kim, Tae Young and Kim, Jae Kwon and Lee, Jong Sik},
+  journal={International Journal of Control and Automation},
+  volume={5},
+  number={4},
+  pages={157--162},
+  year={2012}
+}
+
+@inproceedings{chang2012energy,
+  title={Energy-aware genetic algorithms for task scheduling in cloud computing},
+  author={Chang-tian, Ying and Jiong, Yu},
+  booktitle={ChinaGrid Annual Conference (ChinaGrid), 2012 Seventh},
+  pages={43--48},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{ge2010ga,
+  title={Ga-based task scheduler for the cloud computing systems},
+  author={Ge, Yujia and Wei, Guiyi},
+  booktitle={Web Information Systems and Mining (WISM), 2010 International Conference on},
+  volume={2},
+  pages={181--186},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{zhao2009independent,
+  title={Independent tasks scheduling based on genetic algorithm in cloud computing},
+  author={Zhao, Chenhong and Zhang, Shanshan and Liu, Qingfeng and Xie, Jian and Hu, Jicheng},
+  booktitle={Wireless Communications, Networking and Mobile Computing, 2009. WiCom'09. 5th International Conference on},
+  pages={1--4},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{pop2013reputation,
+  title={Reputation guided genetic scheduling algorithm for independent tasks in inter-clouds environments},
+  author={Pop, Florin and Cristea, Valentin and Bessis, Nik and Sotiriadis, Stelios},
+  booktitle={Advanced Information Networking and Applications Workshops (WAINA), 2013 27th International Conference on},
+  pages={772--776},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{li2014improved,
+  title={An Improved Max-Min Task-Scheduling Algorithm for Elastic Cloud},
+  author={Li, Xiaofang and Mao, Yingchi and Xiao, Xianjian and Zhuang, Yanbin},
+  booktitle={Computer, Consumer and Control (IS3C), 2014 International Symposium on},
+  pages={340--343},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{nakrani2004honey,
+  title={On honey bees and dynamic server allocation in internet hosting centers},
+  author={Nakrani, Sunil and Tovey, Craig},
+  journal={Adaptive Behavior},
+  volume={12},
+  number={3-4},
+  pages={223--240},
+  year={2004},
+  publisher={SAGE Publications}
+}
+
+@inproceedings{etminani2007min,
+  title={A min-min max-min selective algorihtm for grid task scheduling},
+  author={Etminani, Kobra and Naghibzadeh, M},
+  booktitle={Internet, 2007. ICI 2007. 3rd IEEE/IFIP International Conference in Central Asia on},
+  pages={1--7},
+  year={2007},
+  organization={IEEE}
+}
+
+@article{bhoi2013enhanced,
+  title={Enhanced Max-min task scheduling algorithm in cloud computing},
+  author={Bhoi, Upendra and Ramanuj, Purvi N},
+  journal={International Journal of Application or Innovation in Engineering and Management (IJAIEM)},
+  pages={259--264},
+  year={2013}
+}
+
+@inproceedings{wang2010towards,
+  title={Towards a load balancing in a three-level cloud computing network},
+  author={Wang, Shu-Ching and Yan, Kuo-Qin and Liao, Wen-Pin and Wang, Shun-Sheng},
+  booktitle={Computer Science and Information Technology (ICCSIT), 2010 3rd IEEE International Conference on},
+  volume={1},
+  pages={108--113},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{chen2013user,
+  title={User-priority guided Min-Min scheduling algorithm for load balancing in cloud computing},
+  author={Chen, Huankai and Wang, Frank and Helian, Na and Akanmu, Gbola},
+  booktitle={Parallel Computing Technologies (PARCOMPTECH), 2013 National Conference on},
+  pages={1--8},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{he2003qos,
+  title={QoS guided min-min heuristic for grid task scheduling},
+  author={He, XiaoShan and Sun, XianHe and Von Laszewski, Gregor},
+  journal={Journal of Computer Science and Technology},
+  volume={18},
+  number={4},
+  pages={442--451},
+  year={2003},
+  publisher={Springer}
+}
+
+@article{wang2013adaptive,
+  title={Adaptive mobile cloud computing to enable rich mobile multimedia applications},
+  author={Wang, Shaoxuan and Dey, Sujit},
+  journal={IEEE Transactions on Multimedia},
+  volume={15},
+  number={4},
+  pages={870--883},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{flores2015mobile,
+  title={Mobile code offloading: from concept to practice and beyond},
+  author={Flores, Huber and Hui, Pan and Tarkoma, Sasu and Li, Yong and Srirama, Satish and Buyya, Rajkumar},
+  journal={IEEE Communications Magazine},
+  volume={53},
+  number={3},
+  pages={80--88},
+  year={2015},
+  publisher={IEEE}
+}
+
+@inproceedings{zhou2015context,
+  title={A context sensitive offloading scheme for mobile cloud computing service},
+  author={Zhou, Bowen and Dastjerdi, Amir Vahid and Calheiros, Rodrigo N and Srirama, Satish Narayana and Buyya, Rajkumar},
+  booktitle={2015 IEEE 8th International Conference on Cloud Computing},
+  pages={869--876},
+  year={2015},
+  organization={IEEE}
+}
+
+
+@article{abolfazli2014experimental,
+  title={An experimental analysis on cloud-based mobile augmentation in mobile cloud computing},
+  author={Abolfazli, Saeid and Sanaei, Zohreh and Alizadeh, Mojtaba and Gani, Abdullah and Xia, Feng},
+  journal={IEEE Transactions on Consumer Electronics},
+  volume={60},
+  number={1},
+  pages={146--154},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{shiraz2014lightweight,
+  title={A lightweight active service migration framework for computational offloading in mobile cloud computing},
+  author={Shiraz, Muhammad and Gani, Abdullah},
+  journal={The Journal of Supercomputing},
+  volume={68},
+  number={2},
+  pages={978--995},
+  year={2014},
+  publisher={Springer}
+}
+
+
+@article{ma2013mobile,
+  title={When mobile terminals meet the cloud: computation offloading as the bridge},
+  author={Ma, Xiaoqiang and Zhao, Yuan and Zhang, Lei and Wang, Haiyang and Peng, Limei},
+  journal={IEEE Network},
+  volume={27},
+  number={5},
+  pages={28--33},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{barbarossa2013joint,
+  title={Joint allocation of computation and communication resources in multiuser mobile cloud computing},
+  author={Barbarossa, Sergio and Sardellitti, Stefania and Di Lorenzo, Paolo},
+  booktitle={2013 IEEE 14th Workshop on Signal Processing Advances in Wireless Communications (SPAWC)},
+  pages={26--30},
+  year={2013},
+  organization={IEEE}
+}
+
+@book{thai2003net,
+  title={. NET framework essentials},
+  author={Thai, Thuan and Lam, Hoang},
+  year={2003},
+  publisher={" O'Reilly Media, Inc."}
+}
+
+@inproceedings{chin2011analyzing,
+  title={Analyzing inter-application communication in Android},
+  author={Chin, Erika and Felt, Adrienne Porter and Greenwood, Kate and Wagner, David},
+  booktitle={Proceedings of the 9th international conference on Mobile systems, applications, and services},
+  pages={239--252},
+  year={2011},
+  organization={ACM}
+}
+
+@article{amazon2010amazon,
+  title={Amazon elastic compute cloud (amazon ec2)},
+  author={Amazon, EC},
+  journal={Amazon Elastic Compute Cloud (Amazon EC2)},
+  year={2010}
+}
+
+@misc{developers2011android,
+  title={What is android},
+  author={Developers, Android},
+  year={2011},
+  publisher={Android Developers, http://developer. android. com/guide/basics/what-is-android. html, accessed May}
+}
+
+@article{birrell1984implementing,
+  title={Implementing remote procedure calls},
+  author={Birrell, Andrew D and Nelson, Bruce Jay},
+  journal={ACM Transactions on Computer Systems (TOCS)},
+  volume={2},
+  number={1},
+  pages={39--59},
+  year={1984},
+  publisher={ACM}
+}
+
+@article{weisser1991computer,
+  title={The computer for the twenty-first century},
+  author={Weisser, M},
+  journal={Scientific American},
+  volume={265},
+  number={3},
+  pages={94--104},
+  year={1991}
+}
+
+@article{weiser1993some,
+  title={Some computer science issues in ubiquitous computing},
+  author={Weiser, Mark},
+  journal={Communications of the ACM},
+  volume={36},
+  number={7},
+  pages={75--84},
+  year={1993},
+  publisher={ACM}
+}
+
+@article{iosup2011performance,
+  title={Performance analysis of cloud computing services for many-tasks scientific computing},
+  author={Iosup, Alexandru and Ostermann, Simon and Yigitbasi, M Nezih and Prodan, Radu and Fahringer, Thomas and Epema, Dick HJ},
+  journal={Parallel and Distributed Systems, IEEE Transactions on},
+  volume={22},
+  number={6},
+  pages={931--945},
+  year={2011},
+  publisher={IEEE}
+}
+
+@inproceedings{jackson2010performance,
+  title={Performance analysis of high performance computing applications on the amazon web services cloud},
+  author={Jackson, Keith R and Ramakrishnan, Lavanya and Muriki, Krishna and Canon, Shane and Cholia, Shreyas and Shalf, John and Wasserman, Harvey J and Wright, Nicholas J},
+  booktitle={Cloud Computing Technology and Science (CloudCom), 2010 IEEE Second International Conference on},
+  pages={159--168},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{mehrotra2012performance,
+  title={Performance evaluation of Amazon EC2 for NASA HPC applications},
+  author={Mehrotra, Piyush and Djomehri, Jahed and Heistand, Steve and Hood, Robert and Jin, Haoqiang and Lazanoff, Arthur and Saini, Subhash and Biswas, Rupak},
+  booktitle={Proceedings of the 3rd workshop on Scientific Cloud Computing Date},
+  pages={41--50},
+  year={2012},
+  organization={ACM}
+}
+
+@article{evangelinos2008cloud,
+  title={Cloud computing for parallel scientific HPC applications: Feasibility of running coupled atmosphere-ocean climate models on Amazon’s EC2},
+  author={Evangelinos, Constantinos and Hill, C},
+  journal={ratio},
+  volume={2},
+  number={2.40},
+  pages={2--34},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{belgacem2015hybrid,
+  title={A hybrid HPC/cloud distributed infrastructure: Coupling EC2 cloud resources with HPC clusters to run large tightly coupled multiscale applications},
+  author={Belgacem, Mohamed Ben and Chopard, Bastien},
+  journal={Future Generation Computer Systems},
+  volume={42},
+  pages={11--21},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{barr2010vmware,
+  title={The VMware mobile virtualization platform: is that a hypervisor in your pocket?},
+  author={Barr, Ken and Bungale, Prashanth and Deasy, Stephen and Gyuris, Viktor and Hung, Perry and Newell, Craig and Tuch, Harvey and Zoppis, Bruno},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={44},
+  number={4},
+  pages={124--135},
+  year={2010},
+  publisher={ACM}
+}
+
+@article{waldspurger2002memory,
+  title={Memory resource management in VMware ESX server},
+  author={Waldspurger, Carl A},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={36},
+  number={SI},
+  pages={181--194},
+  year={2002},
+  publisher={ACM}
+}
+
+@inproceedings{sugerman2001virtualizing,
+  title={Virtualizing I/O Devices on VMware Workstation's Hosted Virtual Machine Monitor.},
+  author={Sugerman, Jeremy and Venkitachalam, Ganesh and Lim, Beng-Hong},
+  booktitle={USENIX Annual Technical Conference, General Track},
+  pages={1--14},
+  year={2001}
+}
+
+@inproceedings{kivity2007kvm,
+  title={kvm: the Linux virtual machine monitor},
+  author={Kivity, Avi and Kamay, Yaniv and Laor, Dor and Lublin, Uri and Liguori, Anthony},
+  booktitle={Proceedings of the Linux symposium},
+  volume={1},
+  pages={225--230},
+  year={2007}
+}
+
+@inproceedings{menon2006optimizing,
+  title={Optimizing network virtualization in Xen},
+  author={Menon, Aravind and Cox, Alan L and Zwaenepoel, Willy},
+  booktitle={USENIX Annual Technical Conference},
+  number={LABOS-CONF-2006-003},
+  year={2006}
+}
+
+@incollection{villegas2010role,
+  title={The role of grid computing technologies in cloud computing},
+  author={Villegas, David and Rodero, Ivan and Fong, Liana and Bobroff, Norman and Liu, Yanbin and Parashar, Manish and Sadjadi, S Masoud},
+  booktitle={Handbook of Cloud Computing},
+  pages={183--218},
+  year={2010},
+  publisher={Springer}
+}
+
+@article{rings2009grid,
+  title={Grid and cloud computing: opportunities for integration with the next generation network},
+  author={Rings, Thomas and Caryer, Geoff and Gallop, Julian and Grabowski, Jens and Kovacikova, Tatiana and Schulz, Stephan and Stokes-Rees, Ian},
+  journal={Journal of Grid Computing},
+  volume={7},
+  number={3},
+  pages={375--393},
+  year={2009},
+  publisher={Springer}
+}
+
+@inproceedings{zhang2010comparison,
+  title={The comparison between cloud computing and grid computing},
+  author={Zhang, Shuai and Chen, Xuebin and Zhang, Shufen and Huo, Xiuzhen},
+  booktitle={2010 International Conference on Computer Application and System Modeling (ICCASM 2010)},
+  volume={11},
+  pages={V11--72},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{sadashiv2011cluster,
+  title={Cluster, grid and cloud computing: A detailed comparison},
+  author={Sadashiv, Naidila and Kumar, SM Dilip},
+  booktitle={Computer Science \& Education (ICCSE), 2011 6th International Conference on},
+  pages={477--482},
+  year={2011},
+  organization={IEEE}
+}
+
+
+@article{weinhardt2009cloud,
+  title={Cloud computing--a classification, business models, and research directions},
+  author={Weinhardt, Christof and Anandasivam, Dipl-Inform-Wirt Arun and Blau, Benjamin and Borissov, Dipl-Inform Nikolay and Meinl, Dipl-Math Thomas and Michalk, Dipl-Inform-Wirt Wibke and St{\"o}{\ss}er, Jochen},
+  journal={Business \& Information Systems Engineering},
+  volume={1},
+  number={5},
+  pages={391--399},
+  year={2009},
+  publisher={Springer}
+}
+
+@inproceedings{dillon2010cloud,
+  title={Cloud computing: issues and challenges},
+  author={Dillon, Tharam and Wu, Chen and Chang, Elizabeth},
+  booktitle={2010 24th IEEE international conference on advanced information networking and applications},
+  pages={27--33},
+  year={2010},
+  organization={Ieee}
+}
+
+
+@inproceedings{buyya2008market,
+  title={Market-oriented cloud computing: Vision, hype, and reality for delivering it services as computing utilities},
+  author={Buyya, Rajkumar and Yeo, Chee Shin and Venugopal, Srikumar},
+  booktitle={High Performance Computing and Communications, 2008. HPCC'08. 10th IEEE International Conference on},
+  pages={5--13},
+  year={2008},
+  organization={Ieee}
+}
+
+@article{foster2003grid2,
+  title={What is the Grid},
+  author={Foster, Ian and Kesselman, Carl},
+  journal={A three point checklist},
+  volume={20},
+  year={2003}
+}
+
+@article{foster1997globus,
+  title={Globus: A metacomputing infrastructure toolkit},
+  author={Foster, Ian and Kesselman, Carl},
+  journal={International Journal of High Performance Computing Applications},
+  volume={11},
+  number={2},
+  pages={115--128},
+  year={1997},
+  publisher={SAGE Publications}
+}
+
+@article{forecast2010cisco,
+  title={Cisco visual networking index: Global mobile data traffic forecast update 2009-2014},
+  author={Forecast, Cisco VNI},
+  journal={Cisco Public Information, February},
+  volume={9},
+  year={2010}
+}
+
+@article{mobile2014cisco,
+  title={Cisco visual networking index: global mobile data traffic forecast update, 2011--2016},
+  author={Mobile, Cisco VNI},
+  journal={San Jose, CA},
+  volume={1},
+  year={2014}
+}
+
+@article{forman1994challenges,
+  title={The challenges of mobile computing},
+  author={Forman, George H. and Zahorjan, John},
+  journal={Computer},
+  volume={27},
+  number={4},
+  pages={38--47},
+  year={1994},
+  publisher={IEEE}
+}
+
+@inproceedings{satyanarayanan1996fundamental,
+  title={Fundamental challenges in mobile computing},
+  author={Satyanarayanan, Mahadev},
+  booktitle={Proceedings of the fifteenth annual ACM symposium on Principles of distributed computing},
+  pages={1--7},
+  year={1996},
+  organization={ACM}
+}
+
+@article{decandia2007dynamo,
+  title={Dynamo: amazon's highly available key-value store},
+  author={DeCandia, Giuseppe and Hastorun, Deniz and Jampani, Madan and Kakulapati, Gunavardhan and Lakshman, Avinash and Pilchin, Alex and Sivasubramanian, Swaminathan and Vosshall, Peter and Vogels, Werner},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={41},
+  number={6},
+  pages={205--220},
+  year={2007},
+  publisher={ACM}
+}
+
+@article{chang2008bigtable,
+  title={Bigtable: A distributed storage system for structured data},
+  author={Chang, Fay and Dean, Jeffrey and Ghemawat, Sanjay and Hsieh, Wilson C and Wallach, Deborah A and Burrows, Mike and Chandra, Tushar and Fikes, Andrew and Gruber, Robert E},
+  journal={ACM Transactions on Computer Systems (TOCS)},
+  volume={26},
+  number={2},
+  pages={4},
+  year={2008},
+  publisher={ACM}
+}
+
+@article{mell2011nist,
+  title={The NIST definition of cloud computing},
+  author={Mell, Peter and Grance, Tim},
+  year={2011},
+  publisher={Computer Security Division, Information Technology Laboratory, National Institute of Standards and Technology Gaithersburg}
+}
+
+@article{armbrust2010view,
+  title={A view of cloud computing},
+  author={Armbrust, Michael and Fox, Armando and Griffith, Rean and Joseph, Anthony D and Katz, Randy and Konwinski, Andy and Lee, Gunho and Patterson, David and Rabkin, Ariel and Stoica, Ion and others},
+  journal={Communications of the ACM},
+  volume={53},
+  number={4},
+  pages={50--58},
+  year={2010},
+  publisher={ACM}
+}
+
+@article{buyya2009cloud,
+  title={Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility},
+  author={Buyya, Rajkumar and Yeo, Chee Shin and Venugopal, Srikumar and Broberg, James and Brandic, Ivona},
+  journal={Future Generation computer systems},
+  volume={25},
+  number={6},
+  pages={599--616},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@inproceedings{foster2008cloud,
+  title={Cloud computing and grid computing 360-degree compared},
+  author={Foster, Ian and Zhao, Yong and Raicu, Ioan and Lu, Shiyong},
+  booktitle={2008 Grid Computing Environments Workshop},
+  pages={1--10},
+  year={2008},
+  organization={Ieee}
+}
+
+@article{hooper2008green,
+  title={Green computing},
+  author={Hooper, Andy},
+  journal={Communication of the ACM},
+  volume={51},
+  number={10},
+  pages={11--13},
+  year={2008}
+}
+
+@article{vaquero2008break,
+  title={A break in the clouds: towards a cloud definition},
+  author={Vaquero, Luis M and Rodero-Merino, Luis and Caceres, Juan and Lindner, Maik},
+  journal={ACM SIGCOMM Computer Communication Review},
+  volume={39},
+  number={1},
+  pages={50--55},
+  year={2008},
+  publisher={ACM}
+}
+
+@article{dinh2013survey,
+  title={A survey of mobile cloud computing: architecture, applications, and approaches},
+  author={Dinh, Hoang T and Lee, Chonho and Niyato, Dusit and Wang, Ping},
+  journal={Wireless communications and mobile computing},
+  volume={13},
+  number={18},
+  pages={1587--1611},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@book{foster2003grid,
+  title={The Grid 2: Blueprint for a new computing infrastructure},
+  author={Foster, Ian and Kesselman, Carl},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{lang2010energy,
+  title={Energy management for mapreduce clusters},
+  author={Lang, Willis and Patel, Jignesh M},
+  journal={Proceedings of the VLDB Endowment},
+  volume={3},
+  number={1-2},
+  pages={129--139},
+  year={2010},
+  publisher={VLDB Endowment}
+}
+
+
+@article{leverich2010energy,
+  title={On the energy (in) efficiency of hadoop clusters},
+  author={Leverich, Jacob and Kozyrakis, Christos},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={44},
+  number={1},
+  pages={61--65},
+  year={2010},
+  publisher={ACM}
+}
+
+@inproceedings{wang2012energy,
+  title={An energy and data locality aware bi-level multiobjective task scheduling model based on MapReduce for cloud computing},
+  author={Wang, Xiaoli and Wang, Yuping},
+  booktitle={Web Intelligence and Intelligent Agent Technology (WI-IAT), 2012 IEEE/WIC/ACM International Conferences on},
+  volume={1},
+  pages={648--655},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{liu2013job,
+  title={Job scheduling model for cloud computing based on multi-objective genetic algorithm},
+  author={Liu, Jing and Luo, Xing-Guo and Zhang, Xing-Ming and Zhang, Fan and Li, Bai-Nan},
+  journal={IJCSI International Journal of Computer Science Issues},
+  volume={10},
+  number={1},
+  pages={134--139},
+  year={2013},
+  publisher={Citeseer}
+}
+
+@inproceedings{changtian2012energy,
+  title={Energy-aware genetic algorithms for task scheduling in cloud computing},
+  author={Changtian, Ying and Jiong, Yu},
+  booktitle={2012 Seventh ChinaGrid Annual Conference},
+  pages={43--48},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{mezmaz2011parallel,
+  title={A parallel bi-objective hybrid metaheuristic for energy-aware scheduling for cloud computing systems},
+  author={Mezmaz, Mohand and Melab, Nouredine and Kessaci, Yacine and Lee, Young Choon and Talbi, E-G and Zomaya, Albert Y and Tuyttens, Daniel},
+  journal={Journal of Parallel and Distributed Computing},
+  volume={71},
+  number={11},
+  pages={1497--1508},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{yassa2013multi,
+  title={Multi-objective approach for energy-aware workflow scheduling in cloud computing environments},
+  author={Yassa, Sonia and Chelouah, Rachid and Kadima, Hubert and Granado, Bertrand},
+  journal={The Scientific World Journal},
+  volume={2013},
+  year={2013},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@article{kliazovich2013dens,
+  title={DENS: data center energy-efficient network-aware scheduling},
+  author={Kliazovich, Dzmitry and Bouvry, Pascal and Khan, Samee Ullah},
+  journal={Cluster computing},
+  volume={16},
+  number={1},
+  pages={65--75},
+  year={2013},
+  publisher={Springer}
+}
+
+@article{boru2015energy,
+  title={Energy-efficient data replication in cloud computing datacenters},
+  author={Boru, Dejene and Kliazovich, Dzmitry and Granelli, Fabrizio and Bouvry, Pascal and Zomaya, Albert Y},
+  journal={Cluster Computing},
+  volume={18},
+  number={1},
+  pages={385--402},
+  year={2015},
+  publisher={Springer}
+}
+
+@inproceedings{kim2009power,
+  title={Power-aware provisioning of cloud resources for real-time services},
+  author={Kim, Kyong Hoon and Beloglazov, Anton and Buyya, Rajkumar},
+  booktitle={Proceedings of the 7th International Workshop on Middleware for Grids, Clouds and e-Science},
+  pages={1},
+  year={2009},
+  organization={ACM}
+}
+
+@inproceedings{duy2010performance,
+  title={Performance evaluation of a green scheduling algorithm for energy savings in cloud computing},
+  author={Duy, Truong Vinh Truong and Sato, Yukinori and Inoguchi, Yasushi},
+  booktitle={Parallel \& Distributed Processing, Workshops and Phd Forum (IPDPSW), 2010 IEEE International Symposium on},
+  pages={1--8},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{li2009enacloud,
+  title={Enacloud: An energy-saving application live placement approach for cloud computing environments},
+  author={Li, Bo and Li, Jianxin and Huai, Jinpeng and Wo, Tianyu and Li, Qin and Zhong, Liang},
+  booktitle={2009 IEEE International Conference on Cloud Computing},
+  pages={17--24},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{beloglazov2010energy,
+  title={Energy efficient resource management in virtualized cloud data centers},
+  author={Beloglazov, Anton and Buyya, Rajkumar},
+  booktitle={Proceedings of the 2010 10th IEEE/ACM international conference on cluster, cloud and grid computing},
+  pages={826--831},
+  year={2010},
+  organization={IEEE Computer Society}
+}
+
+@article{beloglazov2012energy,
+  title={Energy-aware resource allocation heuristics for efficient management of data centers for cloud computing},
+  author={Beloglazov, Anton and Abawajy, Jemal and Buyya, Rajkumar},
+  journal={Future generation computer systems},
+  volume={28},
+  number={5},
+  pages={755--768},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@inproceedings{feller2011energy,
+  title={Energy-aware ant colony based workload placement in clouds},
+  author={Feller, Eugen and Rilling, Louis and Morin, Christine},
+  booktitle={Proceedings of the 2011 IEEE/ACM 12th International Conference on Grid Computing},
+  pages={26--33},
+  year={2011},
+  organization={IEEE Computer Society}
+}
+
+@article{beloglazov2012optimal,
+  title={Optimal online deterministic algorithms and adaptive heuristics for energy and performance efficient dynamic consolidation of virtual machines in cloud data centers},
+  author={Beloglazov, Anton and Buyya, Rajkumar},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={24},
+  number={13},
+  pages={1397--1420},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{dupont2012energy,
+  title={An energy aware framework for virtual machine placement in cloud federated data centres},
+  author={Dupont, Corentin and Schulze, Thomas and Giuliani, Giovanni and Somov, Andrey and Hermenier, Fabien},
+  booktitle={Future Energy Systems: Where Energy, Computing and Communication Meet (e-Energy), 2012 Third International Conference on},
+  pages={1--10},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{goudarzi2012energy,
+  title={Energy-efficient virtual machine replication and placement in a cloud computing system},
+  author={Goudarzi, Hadi and Pedram, Massoud},
+  booktitle={Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on},
+  pages={750--757},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{gao2013multi,
+  title={A multi-objective ant colony system algorithm for virtual machine placement in cloud computing},
+  author={Gao, Yongqiang and Guan, Haibing and Qi, Zhengwei and Hou, Yang and Liu, Liang},
+  journal={Journal of Computer and System Sciences},
+  volume={79},
+  number={8},
+  pages={1230--1242},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{beloglazov2015openstack,
+  title={OpenStack Neat: a framework for dynamic and energy-efficient consolidation of virtual machines in OpenStack clouds},
+  author={Beloglazov, Anton and Buyya, Rajkumar},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={27},
+  number={5},
+  pages={1310--1333},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+
+@inproceedings{hu2010scheduling,
+  title={A scheduling strategy on load balancing of virtual machine resources in cloud computing environment},
+  author={Hu, Jinhua and Gu, Jianhua and Sun, Guofei and Zhao, Tianhai},
+  booktitle={2010 3rd International symposium on parallel architectures, algorithms and programming},
+  pages={89--96},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{barham2003xen,
+  title={Xen and the art of virtualization},
+  author={Barham, Paul and Dragovic, Boris and Fraser, Keir and Hand, Steven and Harris, Tim and Ho, Alex and Neugebauer, Rolf and Pratt, Ian and Warfield, Andrew},
+  booktitle={ACM SIGOPS Operating Systems Review},
+  volume={37},
+  number={5},
+  pages={164--177},
+  year={2003},
+  organization={ACM}
+}
+
+
+
+@article{neiger2006intel,
+  title={Intel Virtualization Technology: Hardware Support for Efficient Processor Virtualization.},
+  author={Neiger, Gil and Santoni, Amy and Leung, Felix and Rodgers, Dion and Uhlig, Rich},
+  journal={Intel Technology Journal},
+  volume={10},
+  number={3},
+  year={2006}
+}
+
+@article{botero2012energy,
+  title={Energy efficient virtual network embedding},
+  author={Botero, Juan Felipe and Hesselbach, Xavier and Duelli, Michael and Schlosser, Daniel and Fischer, Andreas and De Meer, Hermann},
+  journal={IEEE Communications Letters},
+  volume={16},
+  number={5},
+  pages={756--759},
+  year={2012},
+  publisher={IEEE}
+}
+
+@article{nonde2015energy,
+  title={Energy efficient virtual network embedding for cloud networks},
+  author={Nonde, Leonard and El-Gorashi, Taisir EH and Elmirghani, Jaafar MH},
+  journal={Journal of Lightwave Technology},
+  volume={33},
+  number={9},
+  pages={1828--1849},
+  year={2015},
+  publisher={IEEE}
+}
+
+
+@article{satyanarayanan2009case,
+  title={The case for vm-based cloudlets in mobile computing},
+  author={Satyanarayanan, Mahadev and Bahl, Paramvir and Caceres, Ram{\'o}n and Davies, Nigel},
+  journal={IEEE pervasive Computing},
+  volume={8},
+  number={4},
+  pages={14--23},
+  year={2009},
+  publisher={IEEE}
+}
+
+@inproceedings{cuervo2010maui,
+  title={MAUI: making smartphones last longer with code offload},
+  author={Cuervo, Eduardo and Balasubramanian, Aruna and Cho, Dae-ki and Wolman, Alec and Saroiu, Stefan and Chandra, Ranveer and Bahl, Paramvir},
+  booktitle={Proceedings of the 8th international conference on Mobile systems, applications, and services},
+  pages={49--62},
+  year={2010},
+  organization={ACM}
+}
+
+@inproceedings{chun2011clonecloud,
+  title={Clonecloud: elastic execution between mobile device and cloud},
+  author={Chun, Byung-Gon and Ihm, Sunghwan and Maniatis, Petros and Naik, Mayur and Patti, Ashwin},
+  booktitle={Proceedings of the sixth conference on Computer systems},
+  pages={301--314},
+  year={2011},
+  organization={ACM}
+}
+
+@inproceedings{kosta2012thinkair,
+  title={Thinkair: Dynamic resource allocation and parallel execution in the cloud for mobile code offloading},
+  author={Kosta, Sokol and Aucinas, Andrius and Hui, Pan and Mortier, Richard and Zhang, Xinwen},
+  booktitle={INFOCOM, 2012 Proceedings IEEE},
+  pages={945--953},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{han2012mobile,
+  title={Mobile data offloading through opportunistic communications and social participation},
+  author={Han, Bo and Hui, Pan and Kumar, VS Anil and Marathe, Madhav V and Shao, Jianhua and Srinivasan, Aravind},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={11},
+  number={5},
+  pages={821--834},
+  year={2012},
+  publisher={IEEE}
+}
+
+@inproceedings{barbera2013offload,
+  title={To offload or not to offload? the bandwidth and energy costs of mobile cloud computing},
+  author={Barbera, Marco V and Kosta, Sokol and Mei, Alessandro and Stefa, Julinda},
+  booktitle={INFOCOM, 2013 Proceedings IEEE},
+  pages={1285--1293},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{yang2013framework,
+  title={A framework for partitioning and execution of data stream applications in mobile cloud computing},
+  author={Yang, Lei and Cao, Jiannong and Yuan, Yin and Li, Tao and Han, Andy and Chan, Alvin},
+  journal={ACM SIGMETRICS Performance Evaluation Review},
+  volume={40},
+  number={4},
+  pages={23--32},
+  year={2013},
+  publisher={ACM}
+}
+
+@article{zhang2013energy,
+  title={Energy-optimal mobile cloud computing under stochastic wireless channel},
+  author={Zhang, Weiwen and Wen, Yonggang and Guan, Kyle and Kilper, Dan and Luo, Haiyun and Wu, Dapeng Oliver},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={12},
+  number={9},
+  pages={4569--4581},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{kaewpuang2013framework,
+  title={A framework for cooperative resource management in mobile cloud computing},
+  author={Kaewpuang, Rakpong and Niyato, Dusit and Wang, Ping and Hossain, Ekram},
+  journal={IEEE Journal on Selected Areas in Communications},
+  volume={31},
+  number={12},
+  pages={2685--2700},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{rahimi2013music,
+  title={MuSIC: Mobility-Aware Optimal Service Allocation in Mobile Cloud Computing.},
+  author={Rahimi, M Reza and Venkatasubramanian, Nalini and Vasilakos, Athanasios V},
+  journal={IEEE CLOUD},
+  volume={2013},
+  pages={75--82},
+  year={2013}
+}
+
+@inproceedings{fesehaye2012impact,
+  title={Impact of cloudlets on interactive mobile cloud applications},
+  author={Fesehaye, Debessay and Gao, Yunlong and Nahrstedt, Klara and Wang, Guijun},
+  booktitle={Enterprise Distributed Object Computing Conference (EDOC), 2012 IEEE 16th International},
+  pages={123--132},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{liang2012smdp,
+  title={An SMDP-based service model for interdomain resource allocation in mobile cloud networks},
+  author={Liang, Hongbin and Cai, Lin X and Huang, Dijiang and Shen, Xuemin and Peng, Daiyuan},
+  journal={IEEE transactions on vehicular technology},
+  volume={61},
+  number={5},
+  pages={2222--2232},
+  year={2012},
+  publisher={IEEE}
+}
+
+@inproceedings{ding2013enabling,
+  title={Enabling energy-aware collaborative mobile data offloading for smartphones},
+  author={Ding, Aaron Yi and Han, Bo and Xiao, Yu and Hui, Pan and Srinivasan, Aravind and Kojo, Markku and Tarkoma, Sasu},
+  booktitle={2013 IEEE International Conference on Sensing, Communications and Networking (SECON)},
+  pages={487--495},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{li2014multiple,
+  title={Multiple mobile data offloading through disruption tolerant networks},
+  author={Li, Yong and Qian, Mengjiong and Jin, Depeng and Hui, Pan and Wang, Zhaocheng and Chen, Sheng},
+  journal={IEEE Transactions on Mobile Computing},
+  volume={13},
+  number={7},
+  pages={1579--1596},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{chen2015decentralized,
+  title={Decentralized computation offloading game for mobile cloud computing},
+  author={Chen, Xu},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={26},
+  number={4},
+  pages={974--983},
+  year={2015},
+  publisher={IEEE}
+}
+
+@inproceedings{zhang2013energy2,
+  title={Energy-efficient scheduling policy for collaborative execution in mobile cloud computing},
+  author={Zhang, Weiwen and Wen, Yonggang and Wu, Dapeng Oliver},
+  booktitle={INFOCOM, 2013 Proceedings IEEE},
+  pages={190--194},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{gkatzikis2013migrate,
+  title={Migrate or not? Exploiting dynamic task migration in mobile cloud computing systems},
+  author={Gkatzikis, Lazaros and Koutsopoulos, Iordanis},
+  journal={IEEE Wireless Communications},
+  volume={20},
+  number={3},
+  pages={24--32},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{lin2015time,
+  title={Time-and-energy-aware computation offloading in handheld devices to coprocessors and clouds},
+  author={Lin, Ying-Dar and Chu, Edward T-H and Lai, Yuan-Cheng and Huang, Ting-Jun},
+  journal={IEEE Systems Journal},
+  volume={9},
+  number={2},
+  pages={393--405},
+  year={2015},
+  publisher={IEEE}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
